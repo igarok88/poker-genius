@@ -9,7 +9,7 @@ The application is designed for both beginners who want to understand poker math
 The application is deployed and ready to use. You don't need to download or install anything.
 Simply click the link below to start analyzing hands immediately on any device:
 
-🚀 **[Launch Omni Poker](https://igarok88.github.io/omni-poker/index.html)**
+🚀 **[Launch Omni Poker](https://igarok88.github.io/poker-genius/index.html)**
 
 ## ✨ Key Features
 
